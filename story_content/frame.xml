@@ -1265,11 +1265,13 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns00000000001">
-      <string id="three_image_of">of</string>
       <string id="three_image_items">items</string>
-      <string id="three_image_item">item</string>
       <string id="three_image_viewed">viewed</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
       <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
       <string id="acc_active">active</string>
       <string id="alt_key">Alt</string>
       <string id="check_include">Check to include</string>
@@ -1300,7 +1302,6 @@
       <string id="replay_shortcut">Replay Slide</string>
       <string id="shortcut">Shortcut</string>
       <string id="submit_shortcut">Submit Slide</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
       <string id="acctext_shortcut">Toggle accessible text</string>
       <string id="closedcaptions_shortcut">Toggle closed captions</string>
       <string id="togglezoom">Toggle zoom to fit</string>
@@ -1352,7 +1353,6 @@
       <string id="submit_tip">Submit</string>
       <string id="unmute_tip">Unmute</string>
       <string id="acc_volume">volume</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
     </string_table>
   </string_tables>
   <fonts>
